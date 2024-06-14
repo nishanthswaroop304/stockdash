@@ -1,0 +1,26 @@
+AAPL,Apple Inc.
+MSFT,Microsoft Corp.
+GOOGL,Alphabet Inc.
+AMZN,Amazon.com Inc.
+META,Meta Platforms Inc.
+NVDA,NVIDIA Corp.
+TSLA,Tesla Inc.
+PYPL,PayPal Holdings Inc.
+INTC,Intel Corp.
+CSCO,Cisco Systems Inc.
+ADBE,Adobe Inc.
+CRM,Salesforce Inc.
+NFLX,Netflix Inc.
+ORCL,Oracle Corp.
+IBM,International Business Machines Corp.
+QCOM,QUALCOMM Inc.
+AVGO,Broadcom Inc.
+TXN,Texas Instruments Inc.
+AMD,Advanced Micro Devices Inc.
+MU,Micron Technology Inc.
+AMAT,Applied Materials Inc.
+INTU,Intuit Inc.
+LRCX,Lam Research Corp.
+ADI,Analog Devices Inc.
+KLAC,KLA Corp.
+SQ,Block, Inc.
